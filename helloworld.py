@@ -1,2 +1,2 @@
 print('Hello world')
-print("zhuzhu")
+print("wuyue_is_zhuzhu")
